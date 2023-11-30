@@ -1,7 +1,7 @@
 - 👋 Hi, I’m André
-- 👀 I’m interested in cloudops, platform engineering, and SRE
-- 🌱 I’m currently learning best practices for Terraform on GCP
-- 💞️ I’m looking to collaborate on anything related to Google CLoud (or music!)
+- 👀 I’m interested in cloudops, cloud security, platform engineering, and SRE
+- 🌱 I’m currently learning MLOps and pytorch
+- 💞️ I’m looking to collaborate on anything related to Google Cloud and devsecops
 - 📫 Hit me up at apitanga@google.com
 
 <!---
