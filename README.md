@@ -1,13 +1,13 @@
 # André Pitanga
 
-  **Cloud infrastructure. Built to survive.**
+  **Cloud infrastructure built to survive.**
 
   AWS-native · Terraform-driven · Scale-to-zero
 
 
   Currently:
   - SSR at the edge (Nuxt/Nitro on Lambda)
-  - Multi-region that actually fails over
+  - Multi-region that's tested and works consitently
   - Security without the performance tax
 
   **Primitives over abstractions. Understand before you automate.**
