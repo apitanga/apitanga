@@ -1,8 +1,8 @@
 # André Pitanga
 
-**Cloud infrastructure built to survive.**
+**Cloud native architecture that's built to survive.**
 
-AWS-native · Terraform-driven · Scale-to-zero
+AWS-native · Terraform-driven · Serverless
 
 Currently:
 - Building [postmodern.](https://pomo.dev), a cloud-native Terraform pattern library
