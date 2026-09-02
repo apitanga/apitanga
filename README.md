@@ -5,7 +5,7 @@
 AWS-native · Terraform-driven · Serverless
 
 Currently:
-- Building [postmodern.](https://pomo.dev), a cloud-native Terraform pattern library
+- Building [pomo.dev](https://pomo.dev), a cloud-native Terraform pattern library
 - SSR at the edge (Nuxt/Nitro on Lambda)
 - Multi-region that's tested and works consistently
 
