@@ -1,6 +1,6 @@
 # André Pitanga
 
-**Cloud native architecture that's built to survive.**
+**Cloud native architecture for enterprise fintech services.**
 
 AWS-native · Terraform-driven · Serverless
 
