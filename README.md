@@ -2,6 +2,8 @@
 
 **Cloud native architecture for enterprise fintech services.**
 
+[linkedin.com/in/apitanga](https://linkedin.com/in/apitanga)
+
 AWS-native · Terraform-driven · Serverless
 
 Currently:
@@ -11,4 +13,5 @@ Currently:
 
 **Primitives over abstractions. Understand before you automate.**
 
-[pomo.dev](https://pomo.dev) · [linkedin.com/in/apitanga](https://linkedin.com/in/apitanga)
+[Open Source work](https://github.com/pomo-studio)
+[pomo.dev](https://pomo.dev) 
