@@ -2,15 +2,12 @@
 
 **Cloud native architecture for enterprise fintech services.**
 
-[linkedin.com/in/apitanga](https://linkedin.com/in/apitanga)
-
 AWS-native · Terraform-driven · Serverless
 
 Currently:
-- Building [postmodern.tf](https://pomo.dev), a cloud-native Terraform pattern library
-- SSR at the edge (Nuxt/Nitro on Lambda)
-- Multi-region that's tested and works consistently
+- Building [postmodern.tf](https://pomo.dev), a cloud-native architecture pattern library
 
 **Primitives over abstractions. Understand before you automate.**
 
-See my open source work on [github](https://github.com/pomo-studio), and online @[pomo.dev](https://pomo.dev) 
+See my open source work over at [github/pomo-studio](https://github.com/pomo-studio), and online @[pomo.dev](https://pomo.dev) 
+For more info or to connect, message me on [linkedin.com](https://linkedin.com/in/apitanga)
