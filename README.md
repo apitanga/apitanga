@@ -13,4 +13,4 @@ Currently:
 
 **Primitives over abstractions. Understand before you automate.**
 
-See my [open source work](https://github.com/pomo-studio) on github and online @ [pomo.dev](https://pomo.dev) 
+See my open source work on [github](https://github.com/pomo-studio), and online @[pomo.dev](https://pomo.dev) 
